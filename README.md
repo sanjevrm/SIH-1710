@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:12-04-2025
+## Register Number:212223040186
+## Name: SANJEV R M
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,30 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-
+Develop a Smart Railway Station Navigation System that provides real-time, interactive navigation assistance to passengers through a mobile app, digital kiosks, and voice guidance.
 
 ## Proposed Solution / Architecture Diagram
-
+![Screenshot 2025-04-12 084412](https://github.com/user-attachments/assets/68a5c14a-d8cc-4387-a5cb-d7b9127290a8)
 
 ## Use Cases
-
+![Screenshot 2025-04-12 084443](https://github.com/user-attachments/assets/a9b829a7-3b88-4c8c-977a-dc326ff9bbef)
 
 ## Technology Stack
+Frontend: React Native (Mobile App), JavaScript (Digital Kiosk UI)
 
+Backend: Node.js, Firebase, PostgreSQL
+
+AI/ML: Python (for predictive analytics and congestion monitoring)
+
+Navigation Services: Google Maps API, OpenStreetMap, Indoor Navigation SDK
+
+Cloud Hosting: Google Cloud / AWS
 
 ## Dependencies
+Access to real-time railway station data.
 
+API integration with Indian Railways services.
+
+Deployment permissions for digital kiosks in stations.
+
+Compliance with government regulations on data privacy.
